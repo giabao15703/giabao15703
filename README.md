@@ -248,24 +248,6 @@ I'm always interested in working on exciting projects and connecting with fellow
 ---
 
 <div align="center">
-  
-### ⚡ Fun Facts & Interests
-
-🎮 Gaming Enthusiast | 🎵 Music Lover | 📸 Photography | ✈️ Travel | 📚 Reading Tech Blogs
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" alt="Footer"/>
-
-<br/>
-
-### 👀 Profile Views Counter
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=yourusername&label=VISITORS&countColor=%23A855F7&style=for-the-badge&labelStyle=upper)
-
-<br/>
 
 
 ## 📊 GitHub Statistics
@@ -291,6 +273,25 @@ I'm always interested in working on exciting projects and connecting with fellow
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=⭐+Star+my+repositories+if+you+find+them+useful!;💡+Open+to+collaborations+and+interesting+projects!;🚀+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
+
+ 
+### ⚡ Fun Facts & Interests
+
+🎮 Gaming Enthusiast | 🎵 Music Lover | 📸 Photography | ✈️ Travel | 📚 Reading Tech Blogs
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" alt="Footer"/>
+
+<br/>
+
+### 👀 Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=yourusername&label=VISITORS&countColor=%23A855F7&style=for-the-badge&labelStyle=upper)
+
+<br/>
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
