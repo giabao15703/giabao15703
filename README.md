@@ -1,227 +1,318 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm a Frontend Developer!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Frontend+Developer+%F0%9F%92%BB;Full-Stack+Enthusiast+%F0%9F%9A%80;Quick+Learner+%F0%9F%93%9A;Passionate+about+Web+Development+%F0%9F%92%A1" alt="Typing SVG" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+# 👋 Hi there, I'm [Your Name]! 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Specialist+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Fast+Learner+%26+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=A855F7&labelColor=1e293b" alt="GitHub Badge">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 </div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
-const developer = {
-    name: "Frontend Developer",
-    location: "Vietnam 🇻🇳",
-    role: "Full-Stack Enthusiast",
-    languages: {
-        expert: ["JavaScript", "TypeScript", "HTML", "CSS"],
-        familiar: ["Python", "PHP"]
-    },
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🚀 About Me
+
+> *"Passionate developer who transforms ideas into elegant, user-centric digital experiences"*
+
+- 🎨 **Frontend Specialist** with a keen eye for design and performance
+- 💡 **Quick Learner** who thrives on mastering new technologies and frameworks
+- 🌟 **Problem Solver** dedicated to writing clean, maintainable, and scalable code
+- 🔭 Currently exploring **advanced animation techniques with GSAP** and **micro-frontend architectures**
+- 🌱 Always learning and staying updated with the latest web development trends
+- ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch! 🍕
+
+<br clear="right"/>
+
+---
+
+## 💼 Technical Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎭 Styling & Animation
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+</div>
+
+---
+
+## 🎯 Skill Proficiency
+
+<div align="center">
+
+```javascript
+const skills = {
     frontend: {
-        frameworks: ["Next.js", "React", "Angular"],
-        styling: ["TailwindCSS", "SASS", "CSS3"],
+        frameworks: ["Next.js", "React.js", "Angular"],
+        styling: ["Tailwind CSS", "SASS", "CSS3"],
         animation: ["GSAP", "Framer Motion"],
-        tools: ["Vite", "Webpack", "Babel"]
+        expertise: "⭐⭐⭐⭐⭐ 95%"
     },
     backend: {
-        runtime: ["Node.js"],
-        frameworks: ["Express", "Laravel"],
-        databases: ["MongoDB", "MySQL"],
-        api: ["RESTful", "GraphQL"]
+        runtime: ["Node.js", "Python"],
+        frameworks: ["Express.js", "Laravel"],
+        expertise: "⭐⭐⭐⭐ 80%"
     },
-    devOps: {
-        containerization: ["Docker"],
-        versionControl: ["Git", "GitHub"],
-        tools: ["Linux", "Nginx"]
+    devops: {
+        tools: ["Docker", "Git", "Linux Server"],
+        database: ["MongoDB"],
+        expertise: "⭐⭐⭐⭐ 75%"
     },
-    softSkills: [
-        "Fast Learner 🚀",
-        "Problem Solver 🧩",
-        "Self-Motivated 💪",
-        "Detail-Oriented 🎯"
-    ],
-    currentFocus: "Building performant & beautiful web experiences",
-    learning: "Always exploring new technologies and best practices"
-};
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
-<div align="center">
-🎨 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,js,ts,html,css,tailwind,sass" alt="Frontend Skills" />
-⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,laravel,mongodb,mysql" alt="Backend Skills" />
-🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux,nginx" alt="Tools" />
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Core Competencies
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-🎨 Frontend Development
-yamlModern Frameworks:
-  ✓ Next.js - SSR, SSG, ISR
-  ✓ React - Hooks, Context, Redux
-  ✓ Angular - Components, Services
-
-Styling & Animation:
-  ✓ TailwindCSS - Utility-first
-  ✓ SASS/SCSS - Advanced CSS
-  ✓ GSAP - Smooth animations
-  
-Responsive Design:
-  ✓ Mobile-first approach
-  ✓ Cross-browser compatibility
-  ✓ Performance optimization
-</td>
-<td width="50%" valign="top">
-🔧 Backend & Infrastructure
-yamlServer-Side:
-  ✓ Node.js - Express, APIs
-  ✓ Laravel - MVC, Eloquent
-  ✓ Python - Scripting, automation
-
-Database Management:
-  ✓ MongoDB - NoSQL, aggregation
-  ✓ MySQL - Relational, queries
-  
-DevOps & Deployment:
-  ✓ Docker - Containerization
-  ✓ Git - Version control
-  ✓ Linux Server - Management
-</td>
-</tr>
-</table>
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
-💼 Professional Skills
-<div align="center">
-Frontend Excellence
-SkillProficiencyNext.js⭐⭐⭐⭐⭐React⭐⭐⭐⭐⭐TailwindCSS⭐⭐⭐⭐⭐GSAP Animation⭐⭐⭐⭐⭐Angular⭐⭐⭐⭐TypeScript⭐⭐⭐⭐
-Backend & Database
-SkillProficiencyNode.js⭐⭐⭐⭐MongoDB⭐⭐⭐⭐Laravel⭐⭐⭐⭐Python⭐⭐⭐Docker⭐⭐⭐⭐MySQL⭐⭐⭐⭐
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> What I Do Best
-<div align="center">
-```typescript
-class WebDeveloper {
-    constructor() {
-        this.name = "Frontend Developer";
-        this.expertise = [
-            "Building responsive, mobile-first web applications",
-            "Creating smooth animations with GSAP",
-            "Implementing pixel-perfect UI designs",
-            "Optimizing web performance & Core Web Vitals",
-            "Developing RESTful APIs",
-            "Managing databases efficiently",
-            "Setting up Docker environments",
-            "Writing clean, maintainable code"
-        ];
+    softSkills: {
+        learning: "Fast & Adaptive ⚡",
+        problemSolving: "Creative & Analytical 🧠",
+        collaboration: "Team Player 🤝"
     }
-strengths() {
-    return {
-        rapidLearning: "Quick to adapt to new technologies",
-        problemSolving: "Analytical approach to challenges",
-        attention: "Detail-oriented implementation",
-        passion: "Love for creating great user experiences"
-    };
+};
+```
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/yourusername/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/yourusername/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/yourusername/project3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/yourusername/project4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+## 💡 What I'm Currently Learning
+
+<div align="center">
+
+| Technology | Progress | Focus Area |
+|:---:|:---:|:---:|
+| 🎨 Advanced GSAP Animations | ████████░░ 80% | Complex Timeline Sequences |
+| 🚀 Micro-Frontends | ██████░░░░ 60% | Module Federation |
+| 🤖 AI Integration | ████░░░░░░ 40% | OpenAI API & LangChain |
+| ☁️ AWS Services | █████░░░░░ 50% | Lambda & S3 Deployment |
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎨 Code Philosophy
+
+<div align="center">
+
+```typescript
+class Developer {
+    name: string = "Your Name";
+    skills: string[] = ["Frontend", "Backend", "DevOps"];
+    
+    constructor() {
+        this.drinkCoffee();
+        this.writeCleanCode();
+        this.neverStopLearning();
+    }
+    
+    drinkCoffee(): void {
+        console.log("☕ Fueling creativity...");
+    }
+    
+    writeCleanCode(): void {
+        console.log("✨ Crafting elegant solutions...");
+    }
+    
+    neverStopLearning(): void {
+        console.log("📚 Expanding knowledge every day...");
+    }
 }
 
-currentGoals() {
-    return [
-        "Master advanced animation techniques",
-        "Explore AI/ML integration in web apps",
-        "Contribute to open-source projects",
-        "Build scalable full-stack applications"
-    ];
-}
-}
+const me = new Developer();
+```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
+---
 
-## 🎯 Development Approach
+## 🎯 2025 Goals
+
+- [ ] 🚀 Contribute to 10+ open-source projects
+- [ ] 📝 Write 20+ technical blog posts
+- [ ] 🎓 Master advanced TypeScript patterns
+- [ ] 🌟 Build 5 production-ready side projects
+- [ ] 👥 Mentor 3 junior developers
+- [ ] 📱 Launch a mobile app using React Native
+- [ ] 🏆 Achieve 1000+ GitHub stars across repositories
+
+---
+
+## 💬 Ask Me About
 
 <div align="center">
 
-| Phase | Focus |
-|-------|-------|
-| **Planning** | Understanding requirements & user needs |
-| **Design** | Creating intuitive & beautiful interfaces |
-| **Development** | Writing clean, efficient, scalable code |
-| **Testing** | Ensuring quality & cross-browser compatibility |
-| **Optimization** | Performance tuning & best practices |
-| **Deployment** | Smooth delivery & maintenance |
+`Next.js` • `React Hooks` • `Tailwind CSS` • `GSAP Animations` • `Performance Optimization`
+`API Integration` • `Docker Containerization` • `MongoDB` • `Clean Code` • `UI/UX Best Practices`
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=00ffff&line=00ffff&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
-
-## 🌟 Key Strengths
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-### 🚀 Fast Learner
-*Ability to quickly master new technologies and frameworks*
+I'm always interested in working on exciting projects and connecting with fellow developers!
 
-### 💡 Problem Solver  
-*Analytical mindset with creative solutions*
+📫 **How to reach me:**
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 💬 Discord: YourUsername#0000
 
-### 🎨 Design Conscious
-*Strong eye for UI/UX and attention to detail*
+<br/>
 
-### ⚡ Performance Focused
-*Always optimizing for speed and efficiency*
+### 💖 Support My Work
 
-### 🤝 Team Player
-*Collaborative approach with excellent communication*
+If you find my work helpful, consider buying me a coffee! ☕
 
-### 📚 Continuous Improvement
-*Always learning and staying updated with latest trends*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46d6-8b0c-9bcaf2aa63cb.gif" width="100%">
-
-<div align="center">
-
-### 💬 "First, solve the problem. Then, write the code." – John Johnson
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### Thanks for visiting! ✨
+<a href="https://www.buymeacoffee.com/yourname" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+### ⚡ Fun Facts & Interests
+
+🎮 Gaming Enthusiast | 🎵 Music Lover | 📸 Photography | ✈️ Travel | 📚 Reading Tech Blogs
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" alt="Footer"/>
+
+<br/>
+
+### 👀 Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=⭐+Star+my+repositories+if+you+find+them+useful!;💡+Open+to+collaborations+and+interesting+projects!;🚀+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
 </div>
