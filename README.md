@@ -240,11 +240,8 @@ const me = new Developer();
 I'm always interested in working on exciting projects and connecting with fellow developers!
 
 📫 **How to reach me:**
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 💬 Discord: YourUsername#0000
+- 📧 Email: trangiabao433@gmail.com
+- 🌐 Facebook: [www.facebook.com/tran.gia.bao.217779/?locale=vi_VN]([https://yourportfolio.com](https://www.facebook.com/tran.gia.bao.217779/?locale=vi_VN))
 
 </div>
 
