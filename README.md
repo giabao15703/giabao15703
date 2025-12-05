@@ -7,16 +7,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Specialist+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Fast+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+Amazing+Web+Experiences!;Code+%7C+Coffee+%7C+Create+%E2%98%95" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/giabao15703">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=A855F7&labelColor=1e293b" alt="GitHub Badge">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:trangiabao433@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
