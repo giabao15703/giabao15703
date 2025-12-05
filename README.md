@@ -138,30 +138,6 @@ const skills = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/yourusername/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/yourusername/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
