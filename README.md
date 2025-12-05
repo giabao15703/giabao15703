@@ -2,21 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="Header"/>
 
-# 👋 Hi there, I'm [Your Name]! 
+# 👋 Hi there, I'm Jay! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Specialist+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Fast+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+Amazing+Web+Experiences!;Code+%7C+Coffee+%7C+Create+%E2%98%95" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/giabao15703">
-    <img src="https://img.shields.io/github/followers/giabao15703?label=Followers&style=for-the-badge&color=A855F7&labelColor=1e293b" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=A855F7&labelColor=1e293b" alt="GitHub Badge">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:trangiabao433@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -33,7 +27,7 @@
 
 ```typescript
 const aboutMe = {
-    name: "Your Name",
+    name: "Jay",
     role: "Full-Stack Developer",
     location: "🌏 Vietnam",
     code: ["TypeScript", "JavaScript", "Python", "PHP"],
@@ -48,7 +42,7 @@ const aboutMe = {
 };
 ```
 
-- 🎨 **Frontend Specialist** with 3+ years crafting beautiful, responsive interfaces
+- 🎨 **Frontend Specialist** with 2+ years crafting beautiful, responsive interfaces
 - 💡 **Quick Learner** who thrives on mastering new technologies and frameworks
 - 🌟 **Problem Solver** dedicated to writing clean, maintainable, and scalable code
 - 🔭 Currently exploring **advanced animation techniques with GSAP** and **micro-frontend architectures**
@@ -95,27 +89,11 @@ const aboutMe = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giabao15703&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giabao15703&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giabao15703&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giabao15703&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giabao15703&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 </div>
 
 ---
@@ -153,41 +131,6 @@ const skills = {
 </div>
 
 ---
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/giabao15703/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giabao15703&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/giabao15703/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giabao15703&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/giabao15703/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giabao15703&repo=project3&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/giabao15703/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giabao15703&repo=project4&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giabao15703/giabao15703/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giabao15703/giabao15703/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giabao15703/giabao15703/output/github-contribution-grid-snake.svg">
-</picture>
-
 <br/>
 
 ### 📊 Weekly Development Breakdown
@@ -231,19 +174,6 @@ Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Mastering GSAP Animations in Next.js 14](https://yourblog.com/gsap-nextjs)
-- 💡 [Building Scalable React Applications with TypeScript](https://yourblog.com/react-typescript)
-- 🎨 [Advanced Tailwind CSS Techniques for Modern UIs](https://yourblog.com/tailwind-advanced)
-- 🐳 [Docker Best Practices for Frontend Developers](https://yourblog.com/docker-frontend)
-- ⚡ [Optimizing Next.js Performance: A Complete Guide](https://yourblog.com/nextjs-performance)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more blog posts...](https://yourblog.com)
-
----
 
 ## 🎨 Code Philosophy
 
@@ -251,7 +181,7 @@ Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░
 
 ```typescript
 class Developer {
-    name: string = "Your Name";
+    name: string = "Jay";
     skills: string[] = ["Frontend", "Backend", "DevOps"];
     
     constructor() {
@@ -310,21 +240,8 @@ const me = new Developer();
 I'm always interested in working on exciting projects and connecting with fellow developers!
 
 📫 **How to reach me:**
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 💬 Discord: giabao15703#0000
-
-<br/>
-
-### 💖 Support My Work
-
-If you find my work helpful, consider buying me a coffee! ☕
-
-<a href="https://www.buymeacoffee.com/yourname" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-</a>
+- 📧 Email: trangiabao433@gmail.com
+- 🌐 Facebook: https://www.facebook.com/tran.gia.bao.217779/?locale=vi_VN
 
 </div>
 
@@ -344,11 +261,29 @@ If you find my work helpful, consider buying me a coffee! ☕
 
 ### 👀 Profile Views Counter
 
-![Profile Views](https://komarev.com/ghpvc/?username=giabao15703&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=giabao15703&label=VISITORS&countColor=%23A855F7&style=for-the-badge&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=yourusername&label=VISITORS&countColor=%23A855F7&style=for-the-badge&labelStyle=upper)
 
 <br/>
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giabao15703&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?giabao15703=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giabao15703&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giabao15703&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+---
 
 ### 🎭 Animated Stats
 
@@ -361,13 +296,6 @@ If you find my work helpful, consider buying me a coffee! ☕
 
 <br/>
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/giabao15703/giabao15703/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
----
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=⭐+Star+my+repositories+if+you+find+them+useful!;💡+Open+to+collaborations+and+interesting+projects!;🚀+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
 
