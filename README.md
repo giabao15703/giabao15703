@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="Header"/>
 
-# 👋 Hi there, I'm [Your Name]! 
+# 👋 Hi there, I'm Jay! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Specialist+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Fast+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+Amazing+Web+Experiences!;Code+%7C+Coffee+%7C+Create+%E2%98%95" alt="Typing SVG" />
 
@@ -31,9 +31,8 @@
 
 > *"Passionate developer who transforms ideas into elegant, user-centric digital experiences"*
 
-```typescript
 const aboutMe = {
-    name: "Your Name",
+    name: "Jay",
     role: "Full-Stack Developer",
     location: "🌏 Vietnam",
     code: ["TypeScript", "JavaScript", "Python", "PHP"],
@@ -192,13 +191,11 @@ const skills = {
 
 ### 📊 Weekly Development Breakdown
 
-```text
 TypeScript   12 hrs 30 mins  ███████████████░░░░░░  58.2%
 JavaScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░  19.8%
 HTML/CSS     2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  12.8%
 Python       1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░   6.2%
 Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░   3.0%
-```
 
 </div>
 
@@ -214,7 +211,6 @@ Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░
 
 </details>
 
----
 
 ## 💡 What I'm Currently Learning
 
@@ -229,7 +225,6 @@ Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░
 
 </div>
 
----
 
 ## 📝 Latest Blog Posts
 
@@ -249,32 +244,26 @@ Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-```typescript
 class Developer {
-    name: string = "Your Name";
+    name: string = "Jay";
     skills: string[] = ["Frontend", "Backend", "DevOps"];
-    
     constructor() {
         this.drinkCoffee();
         this.writeCleanCode();
         this.neverStopLearning();
     }
-    
     drinkCoffee(): void {
         console.log("☕ Fueling creativity...");
     }
-    
     writeCleanCode(): void {
         console.log("✨ Crafting elegant solutions...");
     }
-    
     neverStopLearning(): void {
         console.log("📚 Expanding knowledge every day...");
     }
 }
 
 const me = new Developer();
-```
 
 </div>
 
@@ -295,10 +284,8 @@ const me = new Developer();
 ## 💬 Ask Me About
 
 <div align="center">
-
 `Next.js` • `React Hooks` • `Tailwind CSS` • `GSAP Animations` • `Performance Optimization`
 `API Integration` • `Docker Containerization` • `MongoDB` • `Clean Code` • `UI/UX Best Practices`
-
 </div>
 
 ---
