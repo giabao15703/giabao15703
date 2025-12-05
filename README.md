@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="Header"/>
 
-# 👋 Hi there, I'm [Jay]! 
+# 👋 Hi there, I'm Jay! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Specialist+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Fast+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+Amazing+Web+Experiences!;Code+%7C+Coffee+%7C+Create+%E2%98%95" alt="Typing SVG" />
 
