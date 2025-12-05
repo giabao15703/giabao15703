@@ -269,7 +269,7 @@ I'm always interested in working on exciting projects and connecting with fellow
 
 ### 🎭 Animated Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay&theme=tokyonight" alt="Profile Details"/>
 
 <br/>
 
