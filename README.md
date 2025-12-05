@@ -180,19 +180,6 @@ Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Mastering GSAP Animations in Next.js 14](https://yourblog.com/gsap-nextjs)
-- 💡 [Building Scalable React Applications with TypeScript](https://yourblog.com/react-typescript)
-- 🎨 [Advanced Tailwind CSS Techniques for Modern UIs](https://yourblog.com/tailwind-advanced)
-- 🐳 [Docker Best Practices for Frontend Developers](https://yourblog.com/docker-frontend)
-- ⚡ [Optimizing Next.js Performance: A Complete Guide](https://yourblog.com/nextjs-performance)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more blog posts...](https://yourblog.com)
-
----
 
 ## 🎨 Code Philosophy
 
