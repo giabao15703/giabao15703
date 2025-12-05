@@ -1,8 +1,10 @@
 <div align="center">
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="Header"/>
+
 # 👋 Hi there, I'm [Your Name]! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Specialist+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Fast+Learner+%26+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Specialist+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Fast+Learner+%26+Problem+Solver+%F0%9F%92%A1;Building+Amazing+Web+Experiences!;Code+%7C+Coffee+%7C+Create+%E2%98%95" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/yourusername">
@@ -29,11 +31,29 @@
 
 > *"Passionate developer who transforms ideas into elegant, user-centric digital experiences"*
 
-- 🎨 **Frontend Specialist** with a keen eye for design and performance
+```typescript
+const aboutMe = {
+    name: "Your Name",
+    role: "Full-Stack Developer",
+    location: "🌏 Vietnam",
+    code: ["TypeScript", "JavaScript", "Python", "PHP"],
+    technologies: {
+        frontend: ["Next.js", "React", "Angular", "GSAP"],
+        backend: ["Node.js", "Laravel", "Express"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        devOps: ["Docker", "Linux", "Git", "CI/CD"],
+    },
+    currentlyLearning: ["Micro-Frontends", "AI Integration", "AWS"],
+    funFact: "I can debug code faster than deciding what to eat! 🍕"
+};
+```
+
+- 🎨 **Frontend Specialist** with 3+ years crafting beautiful, responsive interfaces
 - 💡 **Quick Learner** who thrives on mastering new technologies and frameworks
 - 🌟 **Problem Solver** dedicated to writing clean, maintainable, and scalable code
 - 🔭 Currently exploring **advanced animation techniques with GSAP** and **micro-frontend architectures**
 - 🌱 Always learning and staying updated with the latest web development trends
+- 🎯 **Passionate** about creating seamless user experiences with modern web technologies
 - ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch! 🍕
 
 <br clear="right"/>
@@ -161,9 +181,24 @@ const skills = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+### 📊 Weekly Development Breakdown
+
+```text
+TypeScript   12 hrs 30 mins  ███████████████░░░░░░  58.2%
+JavaScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░  19.8%
+HTML/CSS     2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  12.8%
+Python       1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░   6.2%
+Other        0 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░   3.0%
+```
 
 </div>
 
@@ -171,8 +206,11 @@ const skills = {
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- 🎉 Merged PR #42 in **awesome-project** - "Add GSAP scroll animations"
+- 💪 Opened PR #123 in **nextjs-app** - "Implement server-side caching"
+- 🗣 Commented on #89 in **react-library** - "Great implementation!"
+- ⭐ Starred **typescript-guide** - "Awesome TypeScript patterns"
+- 🔱 Forked **docker-compose-templates** for microservices setup
 
 </details>
 
@@ -196,7 +234,14 @@ const skills = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🚀 [Mastering GSAP Animations in Next.js 14](https://yourblog.com/gsap-nextjs)
+- 💡 [Building Scalable React Applications with TypeScript](https://yourblog.com/react-typescript)
+- 🎨 [Advanced Tailwind CSS Techniques for Modern UIs](https://yourblog.com/tailwind-advanced)
+- 🐳 [Docker Best Practices for Frontend Developers](https://yourblog.com/docker-frontend)
+- ⚡ [Optimizing Next.js Performance: A Complete Guide](https://yourblog.com/nextjs-performance)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more blog posts...](https://yourblog.com)
 
 ---
 
@@ -300,6 +345,19 @@ If you find my work helpful, consider buying me a coffee! ☕
 ### 👀 Profile Views Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=yourusername&label=VISITORS&countColor=%23A855F7&style=for-the-badge&labelStyle=upper)
+
+<br/>
+
+### 🎭 Animated Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight" alt="Most Commit Language"/>
 
 <br/>
 
