@@ -4,43 +4,37 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
-javascriptconst developer = {
+const developer = {
     name: "Frontend Developer",
     location: "Vietnam 🇻🇳",
     role: "Full-Stack Enthusiast",
-    
     languages: {
         expert: ["JavaScript", "TypeScript", "HTML", "CSS"],
         familiar: ["Python", "PHP"]
     },
-    
     frontend: {
         frameworks: ["Next.js", "React", "Angular"],
         styling: ["TailwindCSS", "SASS", "CSS3"],
         animation: ["GSAP", "Framer Motion"],
         tools: ["Vite", "Webpack", "Babel"]
     },
-    
     backend: {
         runtime: ["Node.js"],
         frameworks: ["Express", "Laravel"],
         databases: ["MongoDB", "MySQL"],
         api: ["RESTful", "GraphQL"]
     },
-    
     devOps: {
         containerization: ["Docker"],
         versionControl: ["Git", "GitHub"],
         tools: ["Linux", "Nginx"]
     },
-    
     softSkills: [
         "Fast Learner 🚀",
         "Problem Solver 🧩",
         "Self-Motivated 💪",
         "Detail-Oriented 🎯"
     ],
-    
     currentFocus: "Building performant & beautiful web experiences",
     learning: "Always exploring new technologies and best practices"
 };
