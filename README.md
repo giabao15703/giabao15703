@@ -287,13 +287,6 @@ I'm always interested in working on exciting projects and connecting with fellow
 
 <br/>
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
----
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=⭐+Star+my+repositories+if+you+find+them+useful!;💡+Open+to+collaborations+and+interesting+projects!;🚀+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
 
