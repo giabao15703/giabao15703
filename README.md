@@ -48,7 +48,7 @@ const aboutMe = {
 };
 ```
 
-- 🎨 **Frontend Specialist** with 3+ years crafting beautiful, responsive interfaces
+- 🎨 **Frontend Specialist** with 2+ years crafting beautiful, responsive interfaces
 - 💡 **Quick Learner** who thrives on mastering new technologies and frameworks
 - 🌟 **Problem Solver** dedicated to writing clean, maintainable, and scalable code
 - 🔭 Currently exploring **advanced animation techniques with GSAP** and **micro-frontend architectures**
