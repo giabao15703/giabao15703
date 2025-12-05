@@ -269,12 +269,12 @@ I'm always interested in working on exciting projects and connecting with fellow
 
 ### 🎭 Animated Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giabao15703&theme=tokyonight" alt="Profile Details"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giabao15703&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giabao15703&theme=tokyonight" alt="Most Commit Language"/>
 
 <br/>
 
