@@ -233,7 +233,7 @@ I'm always interested in working on exciting projects and connecting with fellow
 
 📫 **How to reach me:**
 - 📧 Email: trangiabao433@gmail.com
-- 🌐 Facebook: https://www.facebook.com/tran.gia.bao.217779/?locale=vi_VN
+- 🌐 Facebook: https://www.facebook.com/JayGabriel157
 
 </div>
 
